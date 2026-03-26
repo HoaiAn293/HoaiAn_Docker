@@ -12,7 +12,9 @@
 	<artifactId>lenguyenhoaian</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>lenguyenhoaian</name>
-	<description>Demo project for Spring Boot</description>
+	<description>
+		Hoai An Spring Boot
+	</description>
 	<url/>
 	<licenses>
 		<license/>
